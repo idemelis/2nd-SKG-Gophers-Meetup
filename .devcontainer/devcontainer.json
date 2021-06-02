@@ -28,6 +28,14 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
+	// Use 'portsAttributes' to set default properties for specific forwarded ports. More info: https://code.visualstudio.com/docs/remote/devcontainerjson-reference.
+	"portsAttributes": {
+		"8080": {
+			"label": "Hello SKG Gophers",
+			"onAutoForward": "openBrowser"
+		}
+	},
+
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "go version",
 

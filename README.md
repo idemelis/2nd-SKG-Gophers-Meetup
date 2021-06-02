@@ -11,7 +11,7 @@ https://www.meetup.com/thessaloniki-golang-meetup/events/278467529
 This talk will be a two-part coding session. Gradually moving from an easy-to-setup development environment using Visual Studio Code remote containers to Heroku app deployments.
 
 #### Prerequisites
-[Visual Studio Code](https://code.visualstudio.com/) with `ms-vscode-remote.remote-containers`
+[Visual Studio Code](https://code.visualstudio.com/) with [ms-vscode-remote.remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 [Docker](https://www.docker.com/)
 [Git](https://git-scm.com/)
 [Heroku](https://devcenter.heroku.com/articles/heroku-cli) cli
