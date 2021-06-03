@@ -15,3 +15,5 @@ This talk will be a two-part coding session. Gradually moving from an easy-to-se
 [Docker](https://www.docker.com/)
 [Git](https://git-scm.com/)
 [Heroku](https://devcenter.heroku.com/articles/heroku-cli) cli
+
+Presentation build and run on [presentador](https://presentador.app/)
